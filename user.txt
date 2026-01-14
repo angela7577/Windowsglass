@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1768315400656",
+    "name": "abhimanyu m",
+    "email": "abhimanyu7577@gmail.com",
+    "password": "112233",
+    "createdAt": "2026-01-13T14:43:20.656Z"
+  }
+]
